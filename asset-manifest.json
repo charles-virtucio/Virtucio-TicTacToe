@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Virtucio-TicTacToe/static/css/main.70798c29.css",
+    "main.js": "/Virtucio-TicTacToe/static/js/main.8c989baa.js",
+    "static/js/787.fedaadb6.chunk.js": "/Virtucio-TicTacToe/static/js/787.fedaadb6.chunk.js",
+    "index.html": "/Virtucio-TicTacToe/index.html",
+    "main.70798c29.css.map": "/Virtucio-TicTacToe/static/css/main.70798c29.css.map",
+    "main.8c989baa.js.map": "/Virtucio-TicTacToe/static/js/main.8c989baa.js.map",
+    "787.fedaadb6.chunk.js.map": "/Virtucio-TicTacToe/static/js/787.fedaadb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70798c29.css",
+    "static/js/main.8c989baa.js"
+  ]
+}
